@@ -1,12 +1,12 @@
 {
   "name": "booksmanagement",
   "version": "1.0.0",
-  "description": "\"\"",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo Error: no test specified && exit 1"
   },
-  "author": "\"Vanshika Dubey\"",
+  "author": "Vanshika Dubey",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1268.0",
